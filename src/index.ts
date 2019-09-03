@@ -20,6 +20,8 @@ export const cli: TestCLI = async (
   await main(filesOrGlobs);
 };
 
+export default cli;
+
 /**
  * Run all tests
  */
