@@ -1,0 +1,21 @@
+{
+  "name": "alsatian-cli-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index",
+  "types": "dist/index",
+  "scripts": {
+    "build": "npm run compile",
+    "compile": "tsc -b tsconfig.json"
+  },
+  "dependencies": {
+    "alsatian": "^3.0.0",
+    "tap-bark": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/ink": "^0.5.2",
+    "typescript": "^3.5.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
