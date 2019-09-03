@@ -16,6 +16,10 @@
     "@types/ink": "^0.5.2",
     "typescript": "^3.5.3"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "bengo.co",
+  "license": "GPL-3.0",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/gobengo/alsatian-cli-function.git"
+  }
 }
