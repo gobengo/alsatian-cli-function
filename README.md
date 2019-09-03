@@ -25,7 +25,7 @@ export class YourTestFixture {
 if (require.main === module) {
   (async () => {
     await cli(__filename);
-  })
+  })();
 }
 ```
 
