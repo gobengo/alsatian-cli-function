@@ -1,6 +1,6 @@
 {
   "name": "alsatian-cli-function",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index",
   "types": "dist/index",
@@ -19,7 +19,7 @@
   "author": "bengo.co",
   "license": "GPL-3.0",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/gobengo/alsatian-cli-function.git"
+    "type": "git",
+    "url": "https://github.com/gobengo/alsatian-cli-function.git"
   }
 }
